@@ -18,6 +18,7 @@ function App() {
           Learn React
           <br />
           Starter project for deploy-test-client
+          I am now auto depoloyed on push.
         </a>
       </header>
     </div>
