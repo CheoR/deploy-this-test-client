@@ -16,6 +16,8 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
+          <br />
+          Starter project for deploy-test-client
         </a>
       </header>
     </div>
